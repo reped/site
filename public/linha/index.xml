@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pró-Defesa</title>
+    <link>https://prodefesa.netlify.app/linha/</link>
+      <atom:link href="https://prodefesa.netlify.app/linha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pró-Defesa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language>
+    <image>
+      <url>https://prodefesa.netlify.app/media/icon_hu3cfb72ddf7bcd7295159812022a52aa5_104306_512x512_fill_lanczos_center_3.png</url>
+      <title>Pró-Defesa</title>
+      <link>https://prodefesa.netlify.app/linha/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://prodefesa.netlify.app/linha/slider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://prodefesa.netlify.app/linha/slider/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
